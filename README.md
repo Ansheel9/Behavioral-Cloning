@@ -11,7 +11,9 @@ Project 4
 
 ## Introduction
 
-![](https://github.com/Ansheel9/P3-Collabration-Competition-DeepRL/blob/master/Images/plot.PNG)
+Track 1 | Track 2
+------------|---------------
+![training_img](https://github.com/Ansheel9/Behavioral-Cloning/blob/master/examples/track1.gif) | ![validation_img](https://github.com/Ansheel9/Behavioral-Cloning/blob/master/examples/track2.gif)
 
 In this project, we will use what we've learned about deep neural networks and convolutional neural networks to clone driving behavior. We will train, validate and test a model using Keras. The model will output a steering angle to an autonomous vehicle.
 
